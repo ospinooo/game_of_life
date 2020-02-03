@@ -20,7 +20,7 @@ You have different initializations.
 One Example is the random initialization.
 ![](img/random.png)
 
-Other one is the Spiral initialization.
+Another one is the Spiral initialization.
 ![](img/spiral.png)
 
 ## Execute
