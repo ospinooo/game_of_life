@@ -5,6 +5,31 @@
 
 > Conway's game of life 
 
+If you don't know what Conway's is check this [link](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+## Stack
+
+- `C`: programming language.
+
+## Features
+
+You have different initializations.
+
+![](img/ini.png)
+
+One Example is the random initialization.
+![](img/random.png)
+
+Other one is the Spiral initialization.
+![](img/spiral.png)
+
+## Execute
+
+- You need to have installed in your computer a c compiler.
+```
+make run
+```
+
 ## Author
 
 👤 **Pablo Ospino Sánchez**
